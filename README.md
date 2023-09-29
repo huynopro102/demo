@@ -1,5 +1,8 @@
 Install-Package Microsoft.EntityFrameworkCore -version 5.0.10
+
 Install-Package Microsoft.EntityFrameworkCore.SqlServer -Version 5.0.10
+
+
 Install-Package Microsoft.EntityFrameworkCore.Tools -Version 5.0.10
 
 
