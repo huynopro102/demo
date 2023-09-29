@@ -15,3 +15,4 @@ builder.Services.AddDbContext<QlspContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("myDB"));
 });
+
